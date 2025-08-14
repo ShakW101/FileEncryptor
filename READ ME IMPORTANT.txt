@@ -1,0 +1,18 @@
+Download this folder (FilEncryptor), and extract the folder to your computer.
+
+Make sure your all these files are inside the same folder, and you have JAVA Runtime Environment to run the software.
+
+If you don't, you can download it here : http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Read the Manual to find out how to encrypt and decrypt, and try decrypting the file I have given you. The decryption key for that file (PLEASE DO NOT EDIT ME DECRYPT ME.txt.ini) is 
+
+“FilEncryptorDemo”
+
+Remember! Capitals and Simples are considered in the key! (Case Sensitive)
+
+When you download these, ignore if it says it will harm your computer. Trust me it won't.
+
+
+Thanks,
+Shakthi Weerawansa
+
